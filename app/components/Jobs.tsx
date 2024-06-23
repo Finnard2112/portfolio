@@ -96,7 +96,7 @@ export default async function Job() {
                 {`01/2023`} - {`05/2023`}
                 </small>
                 <ul className="text-base text-zinc-400 my-4 list-disc pl-5">
-                  <li>Held 6 office hours per week to consolidate students' knowledge and help dozens meet their project deadlines</li>
+                  <li>Held 6 office hours per week to consolidate students&apos;s knowledge and help dozens meet their project deadlines</li>
                   <li>Communicated and organized with other Teaching Assistants to provide the best service in a course of 400 students</li>
                 </ul>
             </div>

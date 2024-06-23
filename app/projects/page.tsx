@@ -11,7 +11,7 @@ export default async function Project() {
           Projects Showcase
         </h1>
         <p className="text-base text-zinc-400 leading-relaxed">
-          I've worked on or helped with many different projects over the years. Here are some of the ones I'm most proud of!
+          I&apos;sve worked on or helped with many different projects over the years. Here are some of the ones I&apos;sm most proud of!
         </p>
       </section>
 
