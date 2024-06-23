@@ -62,7 +62,7 @@ export default async function About() {
                 />
 
                 <a
-                href={`https://drive.google.com/file/d/1ahEgKRsGBNjMEEbi_tr4fg98qJL2eKqO/view?usp=sharing`}
+                href={`https://drive.google.com/file/d/1DlNg0DRAW_tpm-2cJK7EZSwTvoGBjTuV/view?usp=sharing`}
                 className="flex items-center justify-center gap-x-2 bg-[#1d1d20] border border-transparent hover:border-zinc-700 rounded-md duration-200 py-2 text-center cursor-cell font-medium"
                 >
                 <BiFile className="text-base" /> Resume Link
