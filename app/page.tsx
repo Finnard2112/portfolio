@@ -38,7 +38,7 @@ export default async function Home() {
             </li>
             <li key={4}>
               <a
-                href={`https://finnstreefort.blogspot.com//`}
+                href={`https://blog.skedaddle.me//`}
                 rel="noreferer noopener"
                 className="flex items-center gap-x-3 mb-5 hover:text-purple-400 duration-300"
               >
