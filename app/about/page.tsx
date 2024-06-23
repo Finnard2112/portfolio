@@ -17,9 +17,9 @@ export default async function About() {
               _type: 'span',
               _key: 'unique-child-key',
               text:  `
-              I'm interested in everything from defensive/offensive security, programming, programming languages, computer systems and networks, and cryptography.\n
+              I'm interested in everything from defensive/offensive security, programming, programming languages, computer systems, and cryptography.\n
               In my free time, I like working out, hiking, tennis, reading, writing, listening to podcasts, and playing video games with friends. \n
-              I've worked as an undergraduate researcher, teaching assistant, full stack web dev intern, and IT intern. I'm Network+ certified, and I'm working towards Security+ and AWS certificates. \n
+              I've worked as an undergraduate researcher, teaching assistant, full stack Web Dev intern, and IT intern. I'm Network+ certified, and I'm working towards Security+. \n
               If you'd like to know more about me, please visit my blog for technical writeups or writings about my personal interests.\n
               `,
               marks: [],
@@ -28,7 +28,7 @@ export default async function About() {
         },
       ];
     
-    const skills = ["Java", "C", "Python", "Ruby", "Javascript", "Bash","Assembly","Docker","SQL","Flask","Wireshark","Metasploit","Linux","Network Protocols(TCP/IP)","MITRE ATT&CK","OSINT","HTML/CSS","Next.js"];
+    const skills = ["Java", "C", "Python", "Ruby", "JavaScript", "Bash","Assembly","Docker","SQL","Flask","Wireshark","Metasploit","Linux","Network Protocols(TCP/IP)","MITRE ATT&CK","OSINT","HTML/CSS","Next.js"];
 
     // Generate the array of pairs
     const skillspaired = skills.map((text, index) => ({
@@ -42,7 +42,7 @@ export default async function About() {
         <section className="grid lg:grid-cols-2 grid-cols-1 gap-x-6 justify-items-center">
             <div className="order-2 lg:order-none">
             <h1 className="lg:text-5xl text-4xl lg:leading-tight basis-1/2 font-bold mb-8">
-                {`Hi, I'm Finn! A Vietnamese student studying CS at UMD with a focus on cybersecurity `}
+                {`Hi, I'm Finn! A Vietnammese student studying CS at UMD with a focus on cybersecurity `}
             </h1>
 
             <div className="flex flex-col gap-y-3 text-zinc-400 leading-relaxed">

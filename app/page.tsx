@@ -45,6 +45,15 @@ export default async function Home() {
                 {`Personal Blog`}
               </a>
             </li>
+            <li key={"resume1"}>
+              <a
+                href={`https://drive.google.com/file/d/1DlNg0DRAW_tpm-2cJK7EZSwTvoGBjTuV/view?usp=sharing`}
+                rel="noreferer noopener"
+                className="flex items-center gap-x-3 mb-5 hover:text-purple-400 duration-300"
+              >
+                {`Resume`}
+              </a>
+            </li>
           </ul>
         </div>
         <div className="flex-shrink-0 w-full xl:w-auto xl:max-w-md mt-10 xl:mt-0">
